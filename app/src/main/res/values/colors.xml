@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6D4C41</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="colorAccent">#F57F17</color>
+
+    <color name="selectedTab">#FFD180</color>
+    <color name="mainText">#000000</color>
+    <color name="line">#bbb</color>
+    <color name="ripple">#ddd</color>
+
+</resources>

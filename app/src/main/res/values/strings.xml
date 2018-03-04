@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Note</string>
+
+    <string name="today_fragment">Today</string>
+    <string name="week_fragment">Week</string>
+    <string name="month_fragment">Month</string>
+</resources>
